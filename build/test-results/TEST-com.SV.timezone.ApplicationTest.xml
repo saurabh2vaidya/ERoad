@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.SV.timezone.ApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-08-30T00:27:58" hostname="LAPTOP-D30PKVGO" time="1.048">
+  <properties/>
+  <testcase name="testConvertToFinalOutput" classname="com.SV.timezone.ApplicationTest" time="1.048"/>
+  <testcase name="testConvertToUTC" classname="com.SV.timezone.ApplicationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
